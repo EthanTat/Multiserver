@@ -1,5 +1,5 @@
-context("Error messages")
-library(Multiserver)
+
+library(Multisever.package)
 library(testthat)
 
 test_that("Function only allows positve inputs", {
